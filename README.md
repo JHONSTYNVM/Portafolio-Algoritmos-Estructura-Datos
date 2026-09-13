@@ -21,7 +21,7 @@ Los trabajos están organizados por semanas. Cada actividad incluye el proyecto 
 
 ---
 
-# SEMANA 01 - 13/09/2026
+# SEMANA 01
 
 ## Actividad 1: Implementación de Operaciones con Arreglos en Java
 
